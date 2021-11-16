@@ -18,6 +18,10 @@
     "@angular/platform-browser": "~12.2.0",
     "@angular/platform-browser-dynamic": "~12.2.0",
     "@angular/router": "~12.2.0",
+    "@ng-bootstrap/ng-bootstrap": "^10.0.0",
+    "jquery-ui": "^1.13.0",
+    "ngx-ui-tour-core": "^7.0.2",
+    "ngx-ui-tour-ng-bootstrap": "^9.0.2",
     "rxjs": "~6.6.0",
     "tslib": "^2.3.0",
     "zone.js": "~0.11.4"
